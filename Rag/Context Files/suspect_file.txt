@@ -1,0 +1,23 @@
+CASE FILE: #8842 - THE METRO BANK ROBBERY
+DATE OF CRIME: Tuesday, July 12th
+TIME OF CRIME: 2:00 PM
+LOCATION: Downtown Metro Bank
+
+SUSPECT: John "The Eel" Smith
+RELATION: Former employee of the bank.
+
+INTERROGATION TRANSCRIPT (2:00 PM, July 14th):
+
+DETECTIVE: Where were you on Tuesday at 2:00 PM?
+SUSPECT: I was miles away, officer. I was at the movies with my girlfriend.
+DETECTIVE: Which movie?
+SUSPECT: We saw "Space Wars". The 1:30 PM showing at the Grand Theater.
+DETECTIVE: Did anyone see you?
+SUSPECT: Yeah, the ticket guy. I remember clearly because when we walked out of the theater at 4:00 PM, it was pouring rain. I got soaked running to my car.
+DETECTIVE: You're sure it was raining?
+SUSPECT: Absolutely. Thunder, lightning, the whole works.
+DETECTIVE: Then I went to the gym. From 1:00 PM to 3:00 PM. I was lifting weights.
+
+--- OFFICIAL FACTS ---
+1. WEATHER REPORT (July 12th): Sunny and clear all day. No rain recorded in the city.
+2. GYM LOGS: John Smith's keycard was NOT used on Tuesday.

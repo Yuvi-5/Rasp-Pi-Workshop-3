@@ -1,0 +1,23 @@
+CONFIDENTIAL MEDICAL RECORD - DO NOT SHARE
+HOSPITAL: St. Mary's General
+DATE: 2025-10-14
+
+PATIENT ID: 9921-X
+NAME: Sarah Connor
+DOB: 1984-05-12
+BLOOD TYPE: O Negative
+
+DIAGNOSIS:
+1. Acute Anxiety Disorder (triggered by industrial machinery).
+2. Fractured Clavicle (healing).
+3. Insomnia.
+
+CURRENT MEDICATION:
+- Placebo Pills (2x daily) - Patient believes they are "anti-tracking" meds.
+- Ibuprofen (400mg) for pain.
+
+DOCTOR'S NOTES:
+Patient was admitted after an incident at a factory. She claims to be hunted by "units" from the future.
+Despite the delusions, she is highly intelligent and physically capable.
+Patient is allergic to Penicillin and Latex.
+Next appointment scheduled for Nov 5th.

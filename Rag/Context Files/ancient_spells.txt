@@ -1,0 +1,25 @@
+--- THE GRIMOIRE OF ELDORIA ---
+
+SPELL: FIREBALL
+Class: Evocation
+Mana Cost: 50
+Range: 150 feet
+Damage: 8d6 fire damage
+Casting Time: 1 action
+Description: A bright streak flashes from your pointing finger to a point you choose within range then blossoms with a low roar into an explosion of flame.
+Safety Warning: Do not cast within 20 feet of the caster.
+
+SPELL: FEATHER FALL
+Class: Transmutation
+Mana Cost: 10
+Range: 60 feet
+Duration: 1 minute
+Effect: Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends.
+Limitation: Does not work on Dragons or heavy constructs (over 500 lbs).
+
+SPELL: HEALING WORD
+Class: Evocation
+Mana Cost: 15
+Range: 60 feet
+Effect: A creature of your choice regains hit points equal to 1d4 + your spellcasting ability modifier.
+Note: Cannot be used on undead or constructs.

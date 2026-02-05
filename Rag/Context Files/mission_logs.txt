@@ -1,0 +1,20 @@
+[SYSTEM LOG - U.S.S. ARES]
+[DATE: 2088-04-12]
+[LOCATION: Mars Orbit, Sector 4]
+
+LOG ENTRY 001 - COMMANDER VANCE
+Status is critical. The primary oxygen scrubbers have failed in Sector 4. I am currently sealing off the area.
+Engineering reports that the backup generator requires a manual restart.
+The manual override key is located in the Hydroponics Lab, specifically inside Locker 104.
+
+LOG ENTRY 002 - LT. SARAH
+I have established a secure line. We are locking down the bridge.
+If anyone finds this log, the emergency escape pod launch code has been changed.
+The new code is: 7-7-BETA-9.
+Repeat: 7-7-BETA-9. Do not transmit this over open channels.
+
+LOG ENTRY 003 - AUTOMATED SYSTEM
+Warning: Hull breach detected in Sector 2.
+Life support operating at 45% capacity.
+Commander Vance has moved to the MedBay to treat a leg injury.
+End of log.
